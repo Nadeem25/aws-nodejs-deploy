@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  # NodeJs service
+  api: 
+    build: .
+    ports:
+      - 6060:3000
+    environment:
+
+
+    https://www.youtube.com/watch?v=9-iLqe-E9iI
+      

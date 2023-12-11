@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const baseUrl = 'http://localhost:6060/api/v1';\nexport const USER_CREATED = \"Successfully User Created\";\nexport const WECLOME_MESSAGE = \"Welcome To Technotrove System\";\nexport const UNAUTHORIZE = \"Unauthorize User. Please singup\";","map":null,"metadata":{},"sourceType":"module"}

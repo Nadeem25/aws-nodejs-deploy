@@ -1,0 +1,32 @@
+.form-box {
+    padding: 25px;
+    background-color: #bcbcbc3d;
+    margin: 0px, auto;
+}
+h4 {
+    text-align: center;
+}
+.modal-body {
+    margin: -10px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+th, td {
+    text-align: center;
+    padding: 5px;
+}
+th {
+    background-color: #5582e4;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.modal-header{
+    background-color: #5582e4; 
+    color: white;
+}
